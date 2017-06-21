@@ -1,0 +1,156 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-size: 12px;
+}
+
+ul{
+  list-style: none;
+}
+input{
+  height:36px;
+  width: 286px;
+  margin-left: 27px;
+  margin-top: 10px;
+ border:none;
+ border: 1px solid #96A5B4;
+ border-radius: 5px;
+display: block;
+ }
+ #box{
+   width: 1349px;
+   height: 691px;
+ }
+#top{
+  width: 100%;
+  height: 65px;
+  background: #EFF4FA;
+  position: relative;
+}
+#top img{
+  margin-left: 40px;
+  margin-top: 18px;
+}
+#toprig{
+  float: right;
+  margin-right:40px;
+}
+ul li{
+  font-size: 12px;
+  font-weight: 500;
+  color:#1D5494;
+  margin-top:22px;
+  float: left;
+  padding-right: 6px;
+
+}
+#body{
+width: 1008px;
+height:499px;
+margin-left: 210px;
+position: relative;
+}
+#body img{
+  margin-top:90px;
+}
+#body #log{
+  border-radius: 5px;
+  width: 336px;
+  height:459px;
+  border: 1px solid #A0B1C4;
+
+  position:absolute;
+  top:70px;
+  right:70px;
+}
+#logtop{
+  width: 336px;
+  height:50px;
+  background: #F9FBFE;
+    border-radius: 5px;
+
+}
+#bodylogleft{
+  float: left;
+  width:168px;
+  height:50px;
+  text-align: center;
+  line-height: 50px;
+    font-size: 16px;
+}
+#bodylogrig{
+  float: left;
+  width:168px;
+  height:50px;
+  text-align: center;
+  line-height: 50px;
+    font-size: 16px;
+}
+#input1{
+  margin-top: 38px;
+}
+#body #input2{
+  height:53px;
+    width: 148px;
+}
+#check{
+  display: inline;
+  width:0px;
+  margin-left: 27px;
+  margin-top: 10px;
+}
+#loginfoot{
+  width:300px;
+  height:200px;
+
+  position: relative;
+}
+#loginfoot #span1{
+text-align: center;
+  margin-left: 30px;
+  position: absolute;
+  left: 15px;
+  top:20px;
+  font-size: 12px;
+}
+#button{
+  width:282px;
+  height:40px;
+  margin-left: 27px;
+  margin-top: 10px;
+  border: none;
+  border-radius: 5px;
+  background:#6AA2E0;
+  font-size:20px;
+  color: #fff;
+  letter-spacing:8px
+}
+#footbo{
+  font-size: 12px;
+  width:300px;
+  height: 30px;
+  margin-left:100px;
+  margin-top: 80px;
+}
+#footbo a{
+  padding: 5px;
+  color: #476DB7;
+  text-decoration:none
+}
+#footbo .sx{
+  color:#D3BFD3;
+}
+#footer{
+  width: 100%;
+height: 40px;
+background: #EFF4FA;
+margin-top: 86px;
+text-align: center;
+}
+#footer a{
+  line-height: 40px;
+   padding: 5px;
+   color: #476DB7;
+   text-decoration:none
+
+}
